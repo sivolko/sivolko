@@ -6,7 +6,7 @@
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
 
 
-<h1 <b text-align: center> Whoami </b></h1>
+<h1 <b text-align: center> whoami </b></h1>
         
 
 <div align="center">
