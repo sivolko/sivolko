@@ -7,11 +7,18 @@
 
 
 <h1 <b text-align: center> whoami </b></h1>
+
+<p align="center"> 
+  Visitors count 😄<br>
+  <img src="https://profile-counter.glitch.me/sivolko/count.svg" />
+</p>
         
 
 <div align="center">
   <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/si.gif" alt="cover" />
 </div>
+
+
 
 
 
