@@ -24,7 +24,7 @@
 
       
 - 🔭 I’m currently working on ... ownself
-- 🌱 I’m currently learning ... Redis | vue.js 
+- 🌱 I’m currently learning ... Advance Linux  | Microsoft Sentinel | Revising Vanilla JS
 - 👯 I’m looking to collaborate on ... Aliens
 - 🤔 I’m looking for help with ...High Speed Internet
 - 💬 Ask me about ...Anything
