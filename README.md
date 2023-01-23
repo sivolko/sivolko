@@ -6,6 +6,8 @@
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
 
 
+
+
 <h1 <b text-align: center> whoami </b></h1>
 
 <p align="center"> 
@@ -41,4 +43,8 @@
 
 
 ⭐️ From [sivolko](https://github.com/sivolko)
+
+## Tweets
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=myselfshubhendu&layout=wide)](https://twitter.com/myselfshubhendu)
 
