@@ -5,6 +5,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shubhendushubham/)
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
 
+<div align="center">
+  <img width="50%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif"  alt="cover" />
+</div>
+
+
 
 <h3 <b text-align: center> $whoami </b></h3>
 
@@ -56,9 +61,6 @@
 </p>
         
 
-<div align="center">
-  <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif" =50x20 alt="cover" />
-</div>
 
 &nbsp;
 
