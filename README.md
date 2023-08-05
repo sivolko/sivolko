@@ -2,6 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/myselfshubhendu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhendu-shubham/)
+[![Blog](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://hugs4bugs.me/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shubhendushubham/)
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
 
@@ -17,7 +18,7 @@
         
 
 <div align="center">
-  <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/si.gif" alt="cover" />
+  <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif" alt="cover" />
 </div>
 
 
@@ -25,7 +26,7 @@
 
 
       
-- 🔭 I’m currently working on ... ownself
+- 🔭 I’m currently working on .. **Cloud Security Solution Architect**
 - 🌱 I’m currently learning ... Advance Linux  | Microsoft Sentinel | Revising Vanilla JS
 - 👯 I’m looking to collaborate on ... Aliens
 - 🤔 I’m looking for help with ...High Speed Internet
