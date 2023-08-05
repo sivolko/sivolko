@@ -57,7 +57,7 @@
         
 
 <div align="center">
-  <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif" alt="cover" />
+  <img width="100%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif" =50x20 alt="cover" />
 </div>
 
 &nbsp;
