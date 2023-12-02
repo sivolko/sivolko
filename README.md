@@ -23,6 +23,8 @@
        - DevSecOps 
        - Vulnerability Management
        - Cloud Native SIEM and SOAR,(MS Sentinel, IBM Qradar)
+       - CNAPP tools like MDC, Deepfence ThreatMapper
+       - Nmap,
        - Threat Hunting (KQL, YARA)
        - PenTesting
        - Defender for cloud, EDR,
