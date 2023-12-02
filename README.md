@@ -73,8 +73,7 @@
 
 
 ## Certifications
-
-1. ![ Azure Administrator ](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg)
+SC 100 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 305 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 104 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="img" width="100"/>
 
 
 
