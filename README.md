@@ -14,7 +14,7 @@
 <h3 <b text-align: center> $whoami </b></h3>
 
 
-## :man_technologist: : Cloud Security Architect :sunglasses:
+## :man_technologist: : Cloud Security Architect/Red Teamer:sunglasses:
       
 - 🔭 I’m currently working on .. **Cloud Security Solution Architect**
 -  :blue_book: **Expertise** :
@@ -23,11 +23,13 @@
        - DevSecOps 
        - Vulnerability Management
        - Cloud Native SIEM and SOAR,(MS Sentinel, IBM Qradar)
-       - CNAPP tools like MDC, Deepfence ThreatMapper
-       - Nmap,
+       - CNAPP tools like MDC, Deepfence ThreatMapper, 
+       - Nmap,OSNIT Analysis(Spiderfoot,the harvester) DNS Analysis (DNS Recon, URL Crazy), IDS /IPS Identifications
+       - SSL Analysis, Port & Network Analysis, Stress Testing, Burpsuite, Johnny, Cewl, hydra , beef , Armitage, Wireshark,wifi honey, dnschef
+       - Laudanum, webacoo, Tunneling and Exfiltration, Powersploit, Cymothoa, Digital Forensics(dc3dd, missidentify, vinetto, pasco) & reporting tools(Pipal,Maltego)
        - Threat Hunting (KQL, YARA)
        - PenTesting
-       - Defender for cloud, EDR,
+       - Defender for cloud, EDR,XDR
        - Logic Apps,
        - Automation(ARM,Teraform) and Advanced Linux   
 - 🌱 **Learning** :  Splunk Automation  | GoLang | 
