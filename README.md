@@ -57,18 +57,6 @@
 
 
 
-
-
-<p align="center"> 
-  Visitors count 😄<br>
-  <img src="https://profile-counter.glitch.me/sivolko/count.svg" />
-</p>
-        
-
-
-&nbsp;
-
-
 ## CTF Badges
 <img src="https://github.com/sivolko/sivolko/assets/42417756/05fe6a66-b3db-4879-8ba9-6322b9d84004" alt="img" width="100"/> </a>
 <a href ="https://www.credly.com/badges/0e7c5d53-49a8-4a1c-9eae-e016f34f3b6c/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/3556b808-163e-4470-87ce-0d8bc8e25a37" alt="img" width="100"/> </a> 
@@ -98,7 +86,10 @@ SC 100 <img src="https://learn.microsoft.com/en-us/media/learn/certification/bad
 ![Shubhendu Github Stats](https://github-readme-stats.vercel.app/api?username=sivolko&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-
+<p align="center"> 
+  Visitors count 😄<br>
+  <img src="https://profile-counter.glitch.me/sivolko/count.svg" />
+</p>
 
 
 ⭐️ From [sivolko](https://github.com/sivolko)
