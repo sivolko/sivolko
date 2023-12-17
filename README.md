@@ -16,7 +16,7 @@
 
 ## :man_technologist: : Cloud Security Architect/Red Teamer:sunglasses:
       
-- 🔭 I’m currently working on .. **Cloud Security Solution Architect**
+- 🔭 I’m currently working on .. **Threat Modelling using AI/ML**
 -  :blue_book: **Expertise** :
   
        - Azure Cloud Architecture
@@ -69,11 +69,21 @@
 &nbsp;
 
 
+## CTF Badges
+<img src="https://github.com/sivolko/sivolko/assets/42417756/05fe6a66-b3db-4879-8ba9-6322b9d84004" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/0e7c5d53-49a8-4a1c-9eae-e016f34f3b6c/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/3556b808-163e-4470-87ce-0d8bc8e25a37" alt="img" width="100"/> </a> 
+<a href ="https://www.credly.com/badges/54bd07cb-dda0-49b5-8604-f09392b878a7/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/1d0917ce-f91c-4f6a-9d36-0ddfe7da8800" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/4cc82279-4242-41e1-a01c-c23169dd5a9d/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/6501a7f7-c0c5-4164-9162-527f2fcdd039" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/34a17ec3-d2c0-428a-b6a8-b2a9de0d0585/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/3a211be6-b9b3-4a9e-9433-a4d6b288e60d" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/aea55e04-8dd2-446e-b974-810fca15e7c9/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/9ee0273a-5943-42c7-9f63-e0f2df6fd51b" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/d32ba2ab-1aa8-4474-8891-a3afc6f0da5a/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/dd2863af-7136-48cd-9ed4-cb882d99faf3" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/4cda67cb-0d23-4596-9f0b-e74e4e052b50/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/5b31a002-1f78-4f32-81e2-45e5dc58db0f" alt="img" width="100"/> </a>
+<a href ="https://www.credly.com/badges/b2709464-fad2-41ca-b67b-21b553da095a/public_url" target="_blank"> <img src="https://github.com/sivolko/sivolko/assets/42417756/ead94298-0b8f-41c9-9bfe-0278adfff6ec" alt="img" width="100"/> </a>
 
 
 
-## Certifications
-SC 100 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 305 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 104 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="img" width="100"/>
+## Certifications & Achivement
+SC 100 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 305 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 104 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="img" width="100"/> <img src="https://github.com/sivolko/sivolko/assets/42417756/02791156-6bb3-470f-b7ce-fc3d599f7fc9" alt="img" width="100"/>Azure Blogathon <img src="https://github.com/sivolko/sivolko/assets/42417756/9d55c550-1828-4c1a-8096-69d87dfaf913" alt="img" width="100"/>
 
 
 
