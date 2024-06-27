@@ -6,7 +6,7 @@
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
 
 <div align="center">
-  <img width="50%" src="https://github.com/sivolko/sivolko/blob/master/assets/loficity.gif"  alt="cover" />
+  <img width="50%" src="https://github.com/sivolko/sivolko/blob/master/IMG_0464.JPG"  alt="cover" />
 </div>
 
 
