@@ -14,7 +14,7 @@
 <h3 <b text-align: center> $whoami </b></h3>
 
 
-## :man_technologist: : Cloud Security Architect/Red Teamer:sunglasses:
+## :man_technologist: : Cloud Security SME/Red Teamer:sunglasses:
       
 - 🔭 I’m currently working on .. **Threat Modelling using AI/ML**
 -  :blue_book: **Expertise** :
