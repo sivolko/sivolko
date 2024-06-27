@@ -31,7 +31,7 @@
        - PenTesting
        - Defender for cloud, EDR,XDR
        - Logic Apps,
-       - Automation(ARM,Teraform) and Advanced Linux   
+       - Automation(ARM,Terraform) and Advanced Linux   
 - 🌱 **Learning** :  Splunk Automation  | GoLang | 
 - 👯 **Community** :
   
