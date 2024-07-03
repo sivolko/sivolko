@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on .. **Threat Modelling using AI/ML**
 -  :blue_book: **Expertise** :
   
-       - Azure Cloud Architecture
+       - Cloud Native Security Architecture
        - DevSecOps 
        - Vulnerability Management
        - Cloud Native SIEM and SOAR,(MS Sentinel, IBM Qradar)
