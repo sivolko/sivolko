@@ -74,6 +74,7 @@
 SC 100 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 305 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="img" width="100"/> AZ 104 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="img" width="100"/> <img src="https://github.com/sivolko/sivolko/assets/42417756/02791156-6bb3-470f-b7ce-fc3d599f7fc9" alt="img" width="100"/>Azure Blogathon <img src="https://github.com/sivolko/sivolko/assets/42417756/9d55c550-1828-4c1a-8096-69d87dfaf913" alt="img" width="100"/>
 
 
+## [My Talks & Workshops Slides](https://github.com/sivolko/my-talk-slides)
 
 
 ## Badges 
