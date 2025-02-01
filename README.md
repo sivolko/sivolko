@@ -16,23 +16,26 @@
 
 ## :man_technologist: : Cloud Security SME/Red Teamer:sunglasses:
       
-- 🔭 I’m currently working on .. **Threat Modelling using AI/ML**
+- 🔭 I’m currently working on .. **Threat Modeling using AI/ML**
 -  :blue_book: **Expertise** :
   
        - Cloud Native Security Architecture
-       - DevSecOps 
-       - Vulnerability Management
-       - Cloud Native SIEM and SOAR,(MS Sentinel, IBM Qradar)
-       - CNAPP tools like MDC, Deepfence ThreatMapper, 
+       - DevSecOps
+       - Threat Modeling (PASTA, STRIDE)
+       - Cloud Security and Automation
+       - Cloud Native SIEM and SOAR,(MS Sentinel, Palo Alto XSOAR, XSIEM, WAZUH)
+       - CNAPP tools like MDC, Deepfence ThreatMapper, Cloud Strike
+       - SAST using GHAS, SonarQube
        - Nmap,OSNIT Analysis(Spiderfoot,the harvester) DNS Analysis (DNS Recon, URL Crazy), IDS /IPS Identifications
        - SSL Analysis, Port & Network Analysis, Stress Testing, Burpsuite, Johnny, Cewl, hydra , beef , Armitage, Wireshark,wifi honey, dnschef
        - Laudanum, webacoo, Tunneling and Exfiltration, Powersploit, Cymothoa, Digital Forensics(dc3dd, missidentify, vinetto, pasco) & reporting tools(Pipal,Maltego)
        - Threat Hunting (KQL, YARA)
+       - Threat Detection (Sigma)
        - PenTesting
        - Defender for cloud, EDR,XDR
        - Logic Apps,
        - Automation(ARM,Terraform) and Advanced Linux   
-- 🌱 **Learning** :  Splunk Automation  | GoLang | 
+- 🌱 **Learning** :  Splunk Automation  | GoLang | DAST (Qualys & Nessus)
 - 👯 **Community** :
   
         - Leading Microsoft Azure Developer Community
