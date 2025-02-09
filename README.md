@@ -57,6 +57,13 @@
 - 😄 Fun fact: ...I still watch Man vs wild in the era of Netflix !
 
 
+## Current Projects
+
+| Project | Languages | Stars | Activity |
+|---------|-----------|-------|----------|
+| [Hugs4Bugs](https://github.com/sivolko/hugs4bugs) | Ruby, Markdown | ![Stars](https://img.shields.io/github/stars/sivolko/hugs4bugs?style=flat-square) | ![Activity](https://img.shields.io/github/last-commit/sivolko/hugs4bugs?style=flat-square) |
+| [docker-community-extensions](https://collabnix.github.io/docker-community-extensions/) | Docker, markdown | ![Stars](https://img.shields.io/github/stars/collabnix/docker-community-extensions?style=flat-square) | ![Activity](https://img.shields.io/github/last-commit/collabnix/docker-community-extensions?style=flat-square) |
+| [Firewall-Policy-Optimiser](https://github.com/sivolko/Firewall-Policy-Optimiser) | Python, Docker | ![Stars](https://img.shields.io/github/stars/sivolko/Firewall-Policy-Optimiser?style=flat-square) | ![Activity](https://img.shields.io/github/last-commit/sivolko/Firewall-Policy-Optimiser?style=flat-square) |
 
 
 
