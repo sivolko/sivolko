@@ -2,9 +2,9 @@
 [![Twitter](https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/myselfshubhendu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhendu-shubham/)
 [![Blog](https://img.shields.io/badge/-blog-c13584?style=flat&labelColor=c13584&logo=blog&logoColor=white)](https://hugs4bugs.me/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shubhendushubham/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/trblsutar/)
+[![Youtube](https://img.shields.io/badge/-youtube-c13584?style=flat&labelColor=c13584&logo=youtube&logoColor=white)](https://www.youtube.com/@troubleshooterclub)
 [![Dev](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat&labelColor=000&logo=DEV.to&logoColor=white)](https://dev.to/sivolko/)
-
 <div align="center">
   <img width="50%" src="https://github.com/sivolko/sivolko/blob/master/IMG_0464.JPG"  alt="cover" />
 </div>
