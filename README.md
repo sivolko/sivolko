@@ -16,7 +16,7 @@
 
 ## :man_technologist: : Cloud Security SME/Red Teamer:sunglasses:
 
-![image](https://github.com/user-attachments/assets/2819d053-601d-4a05-92af-16b640123087)
+![image](https://github.com/user-attachments/assets/d231b8b5-5bf8-46c7-a887-aa45c81f17fa)
 
 
       
