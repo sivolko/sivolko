@@ -15,6 +15,10 @@
 
 
 ## :man_technologist: : Cloud Security SME/Red Teamer:sunglasses:
+
+![image](https://github.com/user-attachments/assets/ced62492-1bb7-4c94-beb3-6258145eb21f)
+
+
       
 - 🔭 I’m currently working on .. **Threat Modeling using AI/ML**
 -  :blue_book: **Expertise** :
